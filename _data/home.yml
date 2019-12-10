@@ -1,21 +1,30 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
-  btn: Tell Me More
+  heading: IFEOLUWA BABATUNDE
+  lead-in: "Data Scientist"
+  btn: Learn More
 
 services:
-  heading: Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Tools and Skills
+  subheading: Learn more about what I can do.
   service:
-    - icon: fa fa-shopping-cart
-      heading: E-Commerce
+    - icon: fa fa-laptop
+      heading: Python
+      text: 
+    - icon: fa fa-laptop
+      heading: SQL
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
     - icon: fa fa-laptop
-      heading: Responsive Design
+      heading: R Programming
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-lock
-      heading: Web Security
+    - icon: fa fa-laptop
+      heading: Python
+      text: 
+    - icon: fa fa-laptop
+      heading: SQL
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa fa-laptop
+      heading: R Programming
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto
 
 portfolio:
   heading: Portfolio
