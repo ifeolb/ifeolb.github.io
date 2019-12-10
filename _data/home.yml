@@ -31,28 +31,20 @@ portfolio:
   subheading: Check out my work!
 
 about:
-  heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Education
+  subheading: Here is a list of my education insitutions and courses.
   timeline:
     - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: 2019-2020
+      title: Texas Womans University
+      text:  Master of Science in Informatics, Data Science Concentration
     - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
-  end1: Be Part
-  end2: Of Our
+      date: 2016-2019
+      title: Texas Tech University
+      text: Bachelor of Science in Human Sciences, Finance, Psychology, and Health Studies Concentration
+    
+  end1: Add
+  end2: To My
   end3: Story!
 
 team:
@@ -94,15 +86,7 @@ team:
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
-clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
-    url: "#"
+
 
 contact:
   heading: Contact Me
