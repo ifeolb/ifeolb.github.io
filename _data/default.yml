@@ -1,28 +1,28 @@
 brand:
-  name: Start Bootstrap
+  name: Ifeoluwa Babatunde
 menu-string: Menu
 
 nav:
-  - title: Services
+  - title: Tools and Skills
     url: '#services'
   - title: Portfolio
     url: '#portfolio'
   - title: About
     url: '#about'
-  - title: Team
+  - title: Connect With Me
     url: '#team'
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; Ifeoluwa Babatunde 2019
 
 social-buttons:
   - icon: fa fa-twitter
-    url: '#' 
+    url: 'https://twitter.com/snifewawa' 
   - icon: fa fa-facebook
-    url: '#'
+    url: 'https://www.facebook.com/snifewawa'
   - icon: fa fa-linkedin
-    url: '#'
+    url: 'https://www.linkedin.com/in/ifeoluwababatunde/'
 
 quicklinks:
   - title: Privacy Policy
