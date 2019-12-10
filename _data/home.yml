@@ -12,23 +12,23 @@ services:
       text: 
     - icon: fa fa-laptop
       heading: SQL
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-laptop
-      heading: R Programming
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-laptop
-      heading: Python
       text: 
     - icon: fa fa-laptop
-      heading: SQL
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-laptop
       heading: R Programming
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto
+      text: 
+    - icon: fa fa-laptop
+      heading: Machine Learning
+      text: 
+    - icon: fa fa-laptop
+      heading: Quantitative Analysis
+      text:
+    - icon: fa fa-laptop
+      heading: Data Visualization
+      text: 
 
 portfolio:
   heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Check out my work!
 
 about:
   heading: About
@@ -105,7 +105,7 @@ clients:
     url: "#"
 
 contact:
-  heading: Contact Us
+  heading: Contact Me
   subheading: Lorem ipsum dolor sit amet consectetur.
   name: Your Name *
   name-required: Please enter your name.
