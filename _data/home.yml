@@ -37,44 +37,24 @@ about:
     
   end1: Add
   end2: To My
-  end3: Story!
+  end3: Timeline!
 
 team:
-  heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Connect With Me
+  subheading: I am currently pursuing a graduate degree in Informatics and I am seeking internships, rotational programs, and full-time job opporotunities.
   members:
-    - name: Kay Garland
-      role: Lead Designer
+    - name: Ifeoluwa Babatunde
+      role: Data Scientist
       img: img/team/1.jpg
       social-buttons:
         - icon: fa fa-twitter
-          url: "#" 
+          url: "https://twitter.com/snifewawa" 
         - icon: fa fa-facebook
-          url: "#"
+          url: "https://www.facebook.com/snifewawa"
         - icon: fa fa-linkedin
-          url: "#"
-        
-    - name: Larry Parker
-      role: Lead Marketer
-      img: img/team/2.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+          url: "https://www.linkedin.com/in/ifeoluwababatunde/"
+ 
+  
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
