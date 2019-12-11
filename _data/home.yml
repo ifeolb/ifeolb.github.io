@@ -9,10 +9,10 @@ services:
   service:
     - icon: fa fa-laptop
       heading: Python
-      text: 
+      text: Experience with Jupyter Notebooks, reading/writing CSV files, data cleaning (pandas, numpy), and data visualization (matplotlib, seaborn).  
     - icon: fa fa-laptop
       heading: SQL
-      text: 
+      text: Experience with MySQL Workbench, creating/managing databases, and table operations including JOIN, UNION, UPDATE/DELETE/ALTER, Views, and math functions. 
     - icon: fa fa-laptop
       heading: R Programming
       text: 
