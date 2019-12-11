@@ -13,6 +13,7 @@ services:
     - icon: fa fa-laptop
       heading: SQL
       text: Experience with MySQL Workbench, creating/managing databases, and table operations including JOIN, UNION, UPDATE/DELETE/ALTER, Views, and math functions. 
+    - icon: fa fa-laptop
       heading: Machine Learning
       text: Experience in Python with pribability/statistics, data modeling/evaluation, and machine learning algorithms including decision trees, kNN, SVM, linear and logistic regression, K Means and others.
    
