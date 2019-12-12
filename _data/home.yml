@@ -43,7 +43,27 @@ team:
   heading: Connect With Me
   subheading: I am currently pursuing a graduate degree in Informatics and I am seeking internships, rotational programs, and full-time job opporotunities.
   members:
+     - name:
+      role: Resume
+      img: img/team/1.jpg
+      social-buttons:
+        - icon: 
+          url:  
+        - icon: fa fa-laptop
+          url: "file:///C:/Users/User/Downloads/Ifeoluwa%20Babatunde%20Resume%20(1).pdf"
+        - icon: 
+          url: 
     - name: Ifeoluwa Babatunde
+      role: Data Scientist
+      img: img/team/1.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "https://twitter.com/snifewawa" 
+        - icon: fa fa-facebook
+          url: "https://www.facebook.com/snifewawa"
+        - icon: fa fa-linkedin
+          url: "https://www.linkedin.com/in/ifeoluwababatunde/"
+     - name: Ifeoluwa Babatunde
       role: Data Scientist
       img: img/team/1.jpg
       social-buttons:
